@@ -3,6 +3,8 @@ or vs code meh gitclone
 
 genie  api key generated : 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 
 thunder client
+react router snippets
+
 
 see run commands of BE and FE : 
 
