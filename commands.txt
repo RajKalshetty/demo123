@@ -1,0 +1,26 @@
+see git path prudently: https://github.com/RajKalshetty/demo123.git
+or vs code meh gitclone
+
+genie  api key generated : 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 
+thunder client
+
+see run commands of BE and FE : 
+
+
+FE:
+npx create-react-app google
+npm  install axios
+npm install react-router-dom
+npm install cors
+
+
+
+
+BE:
+npm init
+npm install express
+enter 
+enter
+npm install body-parser
+npm install mysql
+node app.js
