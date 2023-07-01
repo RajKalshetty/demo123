@@ -3,6 +3,7 @@ or https://github.com/Honeynara1/demo123.git
 or vs code meh gitclone
 
 genie  api key generated : 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 
+raj key : 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
 thunder client
 react router snippets
 
